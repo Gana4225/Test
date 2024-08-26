@@ -10,9 +10,4 @@ urlpatterns = [
     path('disp/',display),
     path('gt/',include('myapp.urls')),
 
-
-
-
-    gana
-    
 ]
